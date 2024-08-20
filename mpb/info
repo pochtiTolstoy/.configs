@@ -1,0 +1,43 @@
+FOLDER: /home/tim/.backups/mpb
+  generated at:        Sun Aug 18 09:19:58 PM MSK 2024
+BACKUPS:
+  [
+    archived_folder = /home/tim/Study/scripts,
+    archive_name    = scripts1.mpb.tgz,
+    date            = Sun Aug 18 09:19:58 PM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/.config/nvim,
+    archive_name    = nvim_twilight.mpb.tgz,
+    date            = Sun Aug 18 11:59:05 PM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/tmux_temp,
+    archive_name    = tmux_save.mpb.tgz,
+    date            = Mon Aug 19 12:00:38 AM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/temp_vimrc,
+    archive_name    = vimrc_save.mpb.tgz,
+    date            = Mon Aug 19 12:08:27 AM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/ttmp,
+    archive_name    = save_tmux.mpb.tgz,
+    date            = Mon Aug 19 12:32:19 AM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/.config/nvim,
+    archive_name    = light_nvim.mpb.tgz,
+    date            = Mon Aug 19 12:59:45 AM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/zsh_temp,
+    archive_name    = zsh_save.mpb.tgz,
+    date            = Mon Aug 19 12:56:54 PM MSK 2024
+  ],
+  [
+    archived_folder = /home/tim/.config/nvim,
+    archive_name    = nvim_save_fixed_cursor.mpb.tgz,
+    date            = Mon Aug 19 02:44:31 PM MSK 2024
+  ],
